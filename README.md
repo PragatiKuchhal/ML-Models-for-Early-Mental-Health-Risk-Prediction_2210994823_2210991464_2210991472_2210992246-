@@ -25,7 +25,7 @@ matplotlib & seaborn → visualization
 scikit-learn → machine learning models
 
 Steps to Run the Code
-Open Google Colab or Jupyter Notebook
+Open Jupyter Notebook
 Upload the dataset file (CSV format)
 Open the .ipynb file
 Run all cells sequentially:
