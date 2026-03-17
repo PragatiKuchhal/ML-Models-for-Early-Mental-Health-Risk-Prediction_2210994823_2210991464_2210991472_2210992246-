@@ -1,8 +1,8 @@
 # Mental-Health-Prediction-ML
 Machine Learning approach for early prediction of mental health conditions using survey data.
 
-Project Title
-Mental Health Prediction using Machine Learning
+Project Title:
+Machine Learning Approach for Early Prediction of Mental Health Conditions
 
 Team Members:
 Pragati - 2210994823
